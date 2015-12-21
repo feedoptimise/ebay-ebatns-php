@@ -1,0 +1,22 @@
+{
+	"name": "feedoptimise/ebay-ebatns-php",
+	"type": "library",
+	"license": "LGPL-2.1+",
+	"description": "eBay Trading PHP SDK",
+	"keywords": ["ebay", "trading"],
+	"minimum-stability": "dev",
+	"authors": [
+		{
+		"name": "Feed Optimise",
+		"homepage": "http://www.feedoptimise.com"
+		}
+	],
+	
+	"require": {
+		"php": ">=5.3.2"
+	},
+	
+	"autoload": {
+		"classmap": [ "src/" ]
+	}
+}
